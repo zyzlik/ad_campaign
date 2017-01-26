@@ -2,6 +2,7 @@
 ```bash
 git clone https://github.com/liker777/ad_campaign/ .
 chmod +x deploy.sh
+./deploy.sh
 ```
 
 To run app:
