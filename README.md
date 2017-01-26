@@ -1,4 +1,6 @@
 # ad_campaign
+
+To deploy app:
 ```bash
 git clone https://github.com/liker777/ad_campaign/ .
 chmod +x deploy.sh
